@@ -1,0 +1,28 @@
+#scelta, #riquadro_scelta{
+	border: 2px solid black;
+	padding: 5px;
+}
+
+.scelta{
+	border: 2px solid black;
+	display: inline-block;
+	width: 160px;
+	height: 160px;
+	margin: 0px 21px;
+}
+
+table, td, tr{
+	border: 2px solid black;
+	border-collapse: collapse;
+	padding: 0px;
+	margin: 0px;
+}
+
+table{
+	margin: 0px auto;
+}
+
+td{
+		height: 160px;
+		width: 160px;
+}
